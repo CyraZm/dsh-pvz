@@ -68,7 +68,7 @@ cd PvZ-Godot
 bash tools/export-web.sh /path/to/PvZ-Godot /path/to/plugin/game
 ```
 
-（需要 Godot 4.5.1 和 `web_nothreads_release` 导出模板。）
+（需要 Godot 4.5.1 和 `web_nothreads_release` 导出模板。想省事的话，仓库里已经有现成构建，跳过 1、2 两步直接用 `plugin/game/` 即可。）
 
 ### 3. 安装插件
 
@@ -83,7 +83,8 @@ plugin_manager action=install_bundle target=<本仓库>/plugin
 ## 许可与素材
 
 - 本仓库的代码（`plugin/`、`bridge/`、`game/*.json`）：MIT。
-- **不含任何 PvZ 素材**：`plugin/game/` 里的 `.pck` 是 Godot 导出产物，里面有原版美术/音频，**没有提交进仓库**，需要你自己从正版游戏资源构建。公开发布含素材的构建包 = 侵权，请自用。
+- **含 PvZ 素材**：`plugin/game/` 里是 Godot 导出的 Web 构建（原版美术/音频），为了开箱即用才一起放进来。版权属 PopCap / EA，**仅限个人学习与非商业用途**，别拿去卖或大规模传播。
+- `.pck` 有 105 MB，超过 GitHub 单文件 100 MB 限制，所以拆成了 `index.pck.part1/part2`；host 插件会按顺序拼成一条流发给浏览器，对游戏无感。
 - PvZ-Godot 是第三方项目，有自己的非商用许可；PvZ-Portable 是 LGPL-3.0-or-later。
 
 ## 进度
