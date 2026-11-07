@@ -1,0 +1,9 @@
+{
+  "id": "classic",
+  "name": "经典",
+  "desc": "原版节奏：僵尸血量/速度 100%，波次按关卡数据",
+  "zombieHpScale": 1.0,
+  "zombieSpeedScale": 1.0,
+  "wavesScale": 1.0,
+  "startSunScale": 1.0
+}

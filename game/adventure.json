@@ -1,0 +1,1432 @@
+{
+ "version": 1,
+ "total": 50,
+ "levels": [
+  {
+   "i": 1,
+   "name": "1-1",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 4,
+   "sun": 50,
+   "deck": [
+    1
+   ],
+   "zombies": [
+    1
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 1
+  },
+  {
+   "i": 2,
+   "name": "1-2",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 6,
+   "sun": 50,
+   "deck": [
+    1,
+    2
+   ],
+   "zombies": [
+    1
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 3
+  },
+  {
+   "i": 3,
+   "name": "1-3",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 8,
+   "sun": 50,
+   "deck": [
+    1,
+    2
+   ],
+   "zombies": [
+    1,
+    3
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 3
+  },
+  {
+   "i": 4,
+   "name": "1-4",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 10,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3
+   ],
+   "zombies": [
+    1,
+    3
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 5,
+   "name": "1-5",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 12,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "zombies": [
+    1,
+    3,
+    4
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 6,
+   "name": "1-6",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 14,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "zombies": [
+    1,
+    3,
+    4
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 7,
+   "name": "1-7",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 16,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "zombies": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 8,
+   "name": "1-8",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 18,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 9,
+   "name": "1-9",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 20,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 10,
+   "name": "1-10",
+   "world": "白天",
+   "scene": 0,
+   "bg": 0,
+   "bgm": 0,
+   "waves": 22,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 11,
+   "name": "2-1",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 4,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    4
+   ],
+   "zombies": [
+    1,
+    3,
+    6
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 12,
+   "name": "2-2",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 6,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 13,
+   "name": "2-3",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 8,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 5,
+   "rows": 5
+  },
+  {
+   "i": 14,
+   "name": "2-4",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 10,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 6,
+   "rows": 5
+  },
+  {
+   "i": 15,
+   "name": "2-5",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 12,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 7,
+   "rows": 5
+  },
+  {
+   "i": 16,
+   "name": "2-6",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 14,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 8,
+   "rows": 5
+  },
+  {
+   "i": 17,
+   "name": "2-7",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 16,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 9,
+   "rows": 5
+  },
+  {
+   "i": 18,
+   "name": "2-8",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 18,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 10,
+   "rows": 5
+  },
+  {
+   "i": 19,
+   "name": "2-9",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 20,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 11,
+   "rows": 5
+  },
+  {
+   "i": 20,
+   "name": "2-10",
+   "world": "黑夜",
+   "scene": 0,
+   "bg": 1,
+   "bgm": 1,
+   "waves": 22,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "zombies": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    9
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "tomb_num": 12,
+   "rows": 5
+  },
+  {
+   "i": 21,
+   "name": "3-1",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 4,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 22,
+   "name": "3-2",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 6,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 23,
+   "name": "3-3",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 8,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 24,
+   "name": "3-4",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 10,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 25,
+   "name": "3-5",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 12,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 26,
+   "name": "3-6",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 14,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 27,
+   "name": "3-7",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 16,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 28,
+   "name": "3-8",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 18,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 29,
+   "name": "3-9",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 20,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 30,
+   "name": "3-10",
+   "world": "水池",
+   "scene": 1,
+   "bg": 2,
+   "bgm": 2,
+   "waves": 22,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    12,
+    13,
+    14,
+    15
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 31,
+   "name": "4-1",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 4,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 32,
+   "name": "4-2",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 6,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 33,
+   "name": "4-3",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 8,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 34,
+   "name": "4-4",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 10,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 35,
+   "name": "4-5",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 12,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 36,
+   "name": "4-6",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 14,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 37,
+   "name": "4-7",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 16,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 38,
+   "name": "4-8",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 18,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 39,
+   "name": "4-9",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 20,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19,
+    24
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 40,
+   "name": "4-10",
+   "world": "浓雾",
+   "scene": 1,
+   "bg": 3,
+   "bgm": 3,
+   "waves": 22,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    16,
+    17,
+    18,
+    19,
+    24
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "fog": true,
+   "rows": 5
+  },
+  {
+   "i": 41,
+   "name": "5-1",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 4,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 42,
+   "name": "5-2",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 6,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 43,
+   "name": "5-3",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 8,
+   "sun": 50,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 44,
+   "name": "5-4",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 10,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 45,
+   "name": "5-5",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 12,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 46,
+   "name": "5-6",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 14,
+   "sun": 75,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 47,
+   "name": "5-7",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 16,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 48,
+   "name": "5-8",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 18,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 49,
+   "name": "5-9",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 20,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  },
+  {
+   "i": 50,
+   "name": "5-10",
+   "world": "屋顶",
+   "scene": 2,
+   "bg": 4,
+   "bgm": 4,
+   "waves": 22,
+   "sun": 100,
+   "deck": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19,
+    24,
+    8
+   ],
+   "zombies": [
+    1,
+    3,
+    22,
+    23,
+    24,
+    25,
+    8
+   ],
+   "is_day": true,
+   "is_day_sun": true,
+   "rows": 5
+  }
+ ]
+}

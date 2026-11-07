@@ -1,0 +1,10 @@
+# 游戏导出产物（含版权素材，不要提交）
+plugin/game/index.pck
+plugin/game/index.wasm
+plugin/game/index.js
+plugin/game/*.worklet.js
+plugin/game/export.log
+*.zip
+*.tpz
+node_modules/
+.DS_Store

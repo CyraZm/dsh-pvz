@@ -1,0 +1,9 @@
+{
+  "id": "v95",
+  "name": "95 版",
+  "desc": "关卡数据与原版源码一致；僵尸更耐打、移动更快（数值为社区资料近似）",
+  "zombieHpScale": 1.35,
+  "zombieSpeedScale": 1.12,
+  "wavesScale": 1.0,
+  "startSunScale": 1.0
+}
